@@ -1,5 +1,5 @@
 # Landing Page
-This web page is a basic structure of a landing page that consists of header, information, quote, and sign up.
+A landing page that utilizes flexbox to display elements.
 ## Created With
 * HTML
 * CSS
